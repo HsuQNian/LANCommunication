@@ -1,28 +1,15 @@
 # graduation
 
-## Project setup
+## 项目依赖
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
+yarn
 ```
 
-### Compiles and minifies for production
+### 运行项目
 ```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
+yarn electron:serve
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-echo "# LANCommunication" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
